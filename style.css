@@ -59,7 +59,6 @@ body {
 }
 
 .progress {
-  flex: 10;
   position: relative;
   display: flex;
   flex-basis: 100%;
@@ -70,7 +69,6 @@ body {
 }
 
 .progress__filled {
-  /* width: 50%; */
   background: dodgerblue;
   flex: 0;
   flex-basis: 30%;
