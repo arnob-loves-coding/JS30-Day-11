@@ -71,7 +71,6 @@ body {
 .progress__filled {
   background: dodgerblue;
   flex: 0;
-  flex-basis: 30%;
 }
 .full-screen {
   position: relative;
